@@ -30,7 +30,8 @@ YouTube 2.0 is a clone of the popular video-sharing platform, built using React.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/youtube-2.0-clone.git
+   git clone https://github.com/naseebsidan7/youtube-2.0.git
+   
    ```
 2. Navigate to the project directory:
    ```sh
@@ -38,7 +39,7 @@ YouTube 2.0 is a clone of the popular video-sharing platform, built using React.
    ```
 3. Install dependencies:
    ```sh
-   npm install
+   yarn 
    ```
 
 ## Usage
